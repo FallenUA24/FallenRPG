@@ -1,0 +1,64 @@
+"lang"
+{
+	"Language"		"russian"
+	"Tokens"
+	{		
+		"addon_game_name"			"Fallen RPG"
+
+        //Heroes
+        "npc_dota_hero_creep"                                                   "Крип"
+
+        //Units
+        "npc_creep_1"                                                      "Крип 1"
+        "npc_keeper_1"                                                     "Хранитель 1"
+        "npc_boss_1"                                                       "Босс 1"
+
+        "npc_creep_2"                                                      "Крип 2"
+        "npc_keeper_2"                                                     "Хранитель 2"
+        "npc_boss_2"                                                       "Босс 2"
+
+        "npc_creep_3"                                                      "Крип 3"
+        "npc_keeper_3"                                                     "Хранитель 3"
+        "npc_boss_3"                                                       "Босс 3"
+        
+        "npc_creep_4"                                                      "Крип 4"
+        "npc_keeper_4"                                                     "Хранитель 4"
+        "npc_boss_4"                                                       "Босс 4"
+
+        "npc_creep_5"                                                      "Крип 5"
+        "npc_keeper_5"                                                     "Хранитель 5"
+        "npc_boss_5"                                                       "Босс 5"
+
+        "npc_creep_6"                                                      "Крип 6"
+        "npc_keeper_6"                                                     "Хранитель 6"
+        "npc_boss_6"                                                       "Босс 6"
+
+        "npc_creep_7"                                                      "Крип 7"
+        "npc_keeper_7"                                                     "Хранитель 7"
+        "npc_boss_7"                                                       "Босс 7"
+
+        "npc_creep_8"                                                      "Крип 8"
+        "npc_keeper_8"                                                     "Хранитель 8"
+        "npc_boss_8"                                                       "Босс 8"
+
+        //Materials
+        "DOTA_Tooltip_ability_item_ent_root"                                    "Корень энта"
+        "DOTA_Tooltip_ability_item_ent_root_Description"                        "Материал"
+
+        "DOTA_Tooltip_ability_item_recipe_weapon_stick_2"                       "Рецепт: Палка 2"
+
+        //Items
+        "DOTA_Tooltip_ability_item_weapon_stick"                                "Палка"
+        "DOTA_Tooltip_ability_item_weapon_stick_Description"                    "УВЕЛИЧИВАЕТ УРОН"
+        "DOTA_Tooltip_ability_item_weapon_stick_bonus_damage"                   "УРОН: +"
+
+        "DOTA_Tooltip_ability_item_weapon_stick_2"                              "Палка 2"
+        "DOTA_Tooltip_ability_item_weapon_stick_2_Description"                  "УВЕЛИЧИВАЕТ УРОН"
+        "DOTA_Tooltip_ability_item_weapon_stick_2_bonus_damage"                 "УРОН: +"
+
+        "DOTA_Tooltip_ability_item_weapon_f1-1"                                 "Оружие F1-1"
+        "DOTA_Tooltip_ability_item_weapon_f1-1_Description"                     "УВЕЛИЧИВАЕТ УРОН"
+        "DOTA_Tooltip_ability_item_weapon_f1-1_bonus_damage"                    "УРОН: +"
+
+    }
+}

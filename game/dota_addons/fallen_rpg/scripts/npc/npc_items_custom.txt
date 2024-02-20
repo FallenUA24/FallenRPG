@@ -1,0 +1,23 @@
+#base "items/remove_items.txt"
+
+//Materials
+#base "items/materials/ent_root.txt"
+
+//Weapons
+#base "items/weapon/weapon.txt"
+#base "items/weapon/weapon.kv"
+#base "items/weapon/weapon_recipes.txt"
+
+//Armor
+#base "items/armor/armor.txt"
+#base "items/armor/armor.kv"
+#base "items/armor/armor_recipes.txt"
+
+//Helmet
+#base "items/helmet/helmet.txt"
+#base "items/helmet/helmet.kv"
+#base "items/helmet/helmet_recipes.txt"
+
+"DOTAAbilities"
+{
+}

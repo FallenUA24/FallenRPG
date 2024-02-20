@@ -1,0 +1,103 @@
+"DOTAAbilities"
+{
+    "item_weapon_stick"
+    {
+    // General
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"                     "item_datadriven"
+    "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+    "ItemSellable"                  "0"
+    "ItemPurchasable"               "1"
+    "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_NEVER"
+    "ItemStackable"                 "0"
+  
+        "Modifiers"
+        {
+            "modifier_item_weapon"
+            {
+                "Passive"       "1"
+                "IsHidden"      "1"
+                "Attributes"    "MODIFIER_ATTRIBUTE_MULTIPLE"
+      
+                "Properties"
+                {
+                    "MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE"    "%bonus_damage"
+                }
+            }
+        }
+    }
+    "item_weapon_stick_2"
+    {
+    // General
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"                     "item_datadriven"
+    "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+    "ItemSellable"                  "0"
+    "ItemPurchasable"               "0"
+    "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_NEVER"
+
+        "Modifiers"
+        {
+            "modifier_item_weapon"
+            {
+                "Passive"       "1"
+                "IsHidden"      "1"
+                "Attributes"    "MODIFIER_ATTRIBUTE_MULTIPLE"
+      
+                "Properties"
+                {
+                    "MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE"    "%bonus_damage"
+                }
+            }
+        }
+    }
+    "item_weapon_f1-1"
+    {
+    // General
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"                     "item_datadriven"
+    "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+    "ItemSellable"                  "0"
+    "ItemPurchasable"               "0"
+    "ItemDisassembleRule"           "DOTA_ITEM_DISASSEMBLE_NEVER"
+  
+        "Modifiers"
+        {
+            "modifier_item_weapon"
+            {
+                "Passive"       "1"
+                "IsHidden"      "1"
+                "Attributes"    "MODIFIER_ATTRIBUTE_MULTIPLE"
+      
+                "Properties"
+                {
+                    "MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE"    "%bonus_damage"
+                }
+            }
+        }
+    }
+    "item_weapon_f1-2"
+    {
+    // General
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"                     "item_datadriven"
+    "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+    "ItemSellable"                  "0"
+    "ItemPurchasable"               "0"
+  
+        "Modifiers"
+        {
+            "modifier_item_weapon"
+            {
+                "Passive"       "1"
+                "IsHidden"      "1"
+                "Attributes"    "MODIFIER_ATTRIBUTE_MULTIPLE"
+      
+                "Properties"
+                {
+                    "MODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE"    "%bonus_damage"
+                }
+            }
+        }
+    }
+}

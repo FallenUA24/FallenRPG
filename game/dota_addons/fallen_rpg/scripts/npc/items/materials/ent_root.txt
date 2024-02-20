@@ -1,0 +1,20 @@
+"DOTAAbilities"
+{
+	"item_ent_root"
+	{
+  	// General
+  	//-------------------------------------------------------------------------------------------------------------
+  	"BaseClass"          		     "item_datadriven"
+    "AbilityBehavior"            "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+    "Model"                      "models/props_gameplay/red_box.vmdl" 
+    "AbilityTextureName"         "materials/ent_root"
+    "Effect"                     "particles/generic_gameplay/dropped_dust.vpcf"
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "ItemCost" 				            "0"
+    "ItemKillable"                "0"
+    "ItemSellable"                "0"
+    "ItemPurchasable"             "0"
+    "ItemDroppable"               "1"
+    }
+}

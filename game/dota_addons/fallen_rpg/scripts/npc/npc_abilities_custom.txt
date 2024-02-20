@@ -1,0 +1,33 @@
+// Dota Heroes File
+"DOTAAbilities"
+{
+	"Version"		"1"
+
+	//=================================================================================================================
+    // Respawn
+    //=================================================================================================================
+    "Respawn"
+    {
+        "BaseClass"               "ability_datadriven"
+        "AbilityTextureName"      "ability_name"
+        "AbilityBehavior"         "DOTA_ABILITY_BEHAVIOR_PASSIVE|DOTA_ABILITY_BEHAVIOR_HIDDEN"
+   
+        "OnCreated" //Когда юнит появляется
+        {
+            "RunScript" //Запускается скрипт
+            {
+                "ScriptFile"    "scripts/vscripts/respawn.lua"
+                "Function"      "Respoint"
+            }
+        }
+   
+        "OnOwnerDied" //Когда юнит умирает
+        {
+            "RunScript" //Запускается скрипт
+            {
+                "ScriptFile"    "scripts/vscripts/respawn.lua"
+                "Function"      "Respawn"
+            }
+        }
+    }
+}

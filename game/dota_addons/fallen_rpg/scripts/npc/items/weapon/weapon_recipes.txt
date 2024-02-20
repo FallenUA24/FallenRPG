@@ -1,0 +1,38 @@
+"DOTAAbilities"
+{
+
+    "item_recipe_weapon_stick_2"
+    {
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"           "item_datadriven"
+    "ItemCost"            "0"
+    
+        // Recipe
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"          "1"
+        "ItemResult"          "item_weapon_stick_2"
+        "AbilityTextureName"  "item_recipe"
+        "ItemRequirements"
+        {
+            "01"          "item_weapon_stick;item_recipe_weapon_stick_2"
+        }
+    }
+    "item_recipe_weapon_f1-1"
+    {
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"           "item_datadriven"
+    "ItemCost"            "0"
+  
+        // Recipe
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"          "1"
+        "ItemResult"          "item_weapon_f1-1"
+        "AbilityTextureName"  "item_recipe"
+        "ItemRequirements"
+        {
+            "01"            "item_weapon_stick_2;item_ent_root;item_recipe_weapon_f1-1"
+        }
+    }
+}

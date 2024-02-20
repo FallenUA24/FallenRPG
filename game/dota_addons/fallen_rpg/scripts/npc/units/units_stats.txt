@@ -1,0 +1,533 @@
+"DOTAUnits"
+{
+    "Version"   "1"
+
+    "npc_creep_1"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_1"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_1"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_2"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_2"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_2"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_3"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_3"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_3"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_4"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_4"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_4"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_5"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_5"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_5"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_6"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_6"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_6"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_7"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_7"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_7"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_creep_8"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_keeper_8"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+    "npc_boss_8"   
+    {
+        // Armor
+        //----------------------------------------------------------------
+        "ArmorPhysical"             "1"         // Physical protection.
+
+        // Attack
+        //----------------------------------------------------------------
+        "AttackDamageMin"           "18"        // Damage range min.
+        "AttackDamageMax"           "18"        // Damage range max.
+
+        // Bounty
+        //----------------------------------------------------------------
+        "BountyXP"                  "10"        // Experience earn.
+        "BountyGoldMin"             "10"        // Gold earned min.
+        "BountyGoldMax"             "10"        // Gold earned max.
+
+        // Status
+        //----------------------------------------------------------------
+        "StatusHealth"              "13"       // Base health.
+        "StatusHealthRegen"         "0"         // Health regeneration rate.
+    }
+}

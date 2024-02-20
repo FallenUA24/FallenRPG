@@ -1,0 +1,53 @@
+// Dota Heroes File
+// NOTE: This is not for creating new heroes, this is for taking a currently existing hero as a template and overriding
+// the specified key-value combinations.  Use override_hero <hero_to_override> for this.
+"DOTAHeroes"
+{
+	//=================================================================================================================
+	// HERO: Templar Assassin
+	//=================================================================================================================
+	"npc_dota_hero_creep"
+	{
+        "BaseClass"						"npc_dota_hero"
+        "Model"     					"models/creeps/lane_creeps/creep_2021_radiant/creep_2021_radiant_melee.vmdl"
+		"ModelScale"    				"0.8"
+		"HeroID"                    	"150"
+		"SoundSet"                  	"n_creep_Melee"
+
+		"Ability1"      "pure_damage_aoe"
+        "Ability2"      "generic_hidden"
+        "Ability3"      "generic_hidden"
+        "Ability4"      "generic_hidden"
+        "Ability5"      "generic_hidden"
+        "Ability6"      "generic_hidden"
+
+		"Ability10"     "generic_hidden"
+        "Ability11"     "generic_hidden"
+        "Ability12"     "generic_hidden"
+        "Ability13"     "generic_hidden"
+        "Ability14"     "generic_hidden"
+        "Ability15"     "generic_hidden"
+        "Ability16"     "generic_hidden"
+        "Ability17"     "generic_hidden"
+
+		
+        "ArmorPhysical"     			"0"
+        "AttackCapabilities"        	"DOTA_UNIT_CAP_MELEE_ATTACK"
+        "AttackDamageMin"       		"8"
+        "AttackDamageMax"       		"18"
+        "AttackRate"        			"1.500000"
+        "StatusHealthRegen"     		"0"
+        "AttackAnimationPoint"      	"0.2500000"
+		"BaseAttackSpeed"       		"100"
+        "AttackAcquisitionRange"    	"600"
+        "AttackRange"       			"175"
+        "AttributePrimary"      		"DOTA_ATTRIBUTE_AGILITY"
+        "AttributeBaseStrength"     	"23" 
+        "AttributeStrengthGain"     	"0"
+        "AttributeBaseAgility"      	"15"
+        "AttributeAgilityGain"      	"0"
+        "AttributeBaseIntelligence"     "20"
+        "AttributeIntelligenceGain"     "0"
+        "MovementSpeed"     			"550"
+	}
+}

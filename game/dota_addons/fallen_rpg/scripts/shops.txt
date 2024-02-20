@@ -1,0 +1,50 @@
+"dota_shops"
+{
+  "consumables"
+  { 
+    "item"  "item_weapon_stick"
+  }
+
+  "attributes"
+  {
+  }
+
+  "weapons_armor"
+  {
+  }
+    
+  "misc"
+  {
+  } 
+    
+  
+  "support"
+  {
+  }
+    
+
+  "defense"
+  {
+  }
+    
+
+  "weapons"
+  {
+  }
+    
+
+  "artifacts"
+  { 
+
+  }
+
+  "sideshop1"
+  {
+
+  }
+
+  "sideshop2"
+  {
+
+  }
+}

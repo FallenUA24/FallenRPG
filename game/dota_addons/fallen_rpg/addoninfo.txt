@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"maps"			"fallen_rpg"
+	"IsPlayable"	"1"
+	"MaxPlayers"	"5"
+}

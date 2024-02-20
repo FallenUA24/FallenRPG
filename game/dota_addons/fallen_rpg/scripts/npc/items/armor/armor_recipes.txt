@@ -1,0 +1,37 @@
+"DOTAAbilities"
+{
+    "item_recipe_armor_f1-1"
+    {
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"           "item_datadriven"
+    "ItemCost"            "0"
+  
+        // Recipe
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"          "1"
+        "ItemResult"          "item_armor_f1-1"
+        "AbilityTextureName"  "item_recipe"
+        "ItemRequirements"
+        {
+            "01"            "item_armor;item_ent_root;item_recipe_armor_f1-1"
+        }
+    }
+    "item_recipe_armor_f1-2"
+    {
+    // Item Info
+    //-------------------------------------------------------------------------------------------------------------
+    "BaseClass"           "item_datadriven"
+    "ItemCost"            "0"
+  
+        // Recipe
+        //-------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"          "1"
+        "ItemResult"          "item_armor_f1-1"
+        "AbilityTextureName"  "item_recipe"
+        "ItemRequirements"
+        {
+            "01"            "item_armor_f1-1;item_wendigo_claw;item_recipe_armor_f1-2"
+        }
+    }
+}
